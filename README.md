@@ -42,7 +42,7 @@ Apresente os resultados do seu projeto
 
 ### Exemplos e Insigths
 
--[CONTRATO](exemplos/contrato.md)
+- [CONTRATO](exemplos/contrato.md)
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
