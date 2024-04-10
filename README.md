@@ -20,26 +20,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Uso de IAs Generativas para a criação de um modelo de contrato para locação de imóveis
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+# Criação de um modelo de contrato para locação de imóvel usando IAs Generativas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa ChatGPT para geração do contrato e verificações de ortografia;
+- IA Generativa Looka para criação de uma logo;
+- Ferramenta Microsoft Office Word para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+# Fiz o uso do "ChatGPT" para gerar um modelo de contrato de locação de imóveis e para varificar a ortografia e a concordância das modificações que eu fiz no contrato. Utilizei também o Looka para gerar uma logo, podendo assim representar a minha imobiliária. Para concluir, as alterações e personalizações no contrato foram feitas utilizando a ferramenta Microsoft Office Word.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+# O desafio me permitiu ver de forma ainda mais aprofundada como as IAs podem ser úteis em tarefas do dia a dia, ainda mais que estão cada vez mais difícil distinguir se algo foi feito por um humano ou por uma IA.
 ```
 
 ### Exemplos e Insigths
 
+-[CONTRATO]
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
